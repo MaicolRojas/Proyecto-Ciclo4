@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">System Inventory</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textHome">
+        Sistema de control de inventarios, Diseñado para poder agregar, mostrar, editar y eliminar productos, de cualquier índole, con el objetivo de ayudar a negocios a la hora de tener un pleno control de su inventario, para así poder sacarle el mayor provecho a su negocio a partir de una herramienta tecnológica.
+    </string>
+    <string name="textTitleComments">Mi Comentario</string>
+    <string name="hintComment">Comentario</string>
+    <string name="btSaveComment">Guardar Comentario</string>
+    <string name="btBuyProduct">Agregar al Carrito</string>
+    <string name="textTitleAdmin">Mi Perfil</string>
+    <string name="hintName">Nombre</string>
+    <string name="hintAddress">Dirección</string>
+    <string name="hintPhone">Telefono</string>
+    <string name="hintMail">Correo Electronico</string>
+    <string name="btSaveAdmin">Guardar usuario</string>
+
+
+</resources>
