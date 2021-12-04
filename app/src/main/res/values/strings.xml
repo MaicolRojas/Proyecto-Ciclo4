@@ -8,7 +8,7 @@
     <string name="textTitleComments">Mi Comentario</string>
     <string name="hintComment">Comentario</string>
     <string name="btSaveComment">Guardar Comentario</string>
-    <string name="btBuyProduct">Agregar al Carrito</string>
+    <string name="btBuyProduct">Regresar</string>
     <string name="textTitleAdmin">Mi Perfil</string>
     <string name="hintName">Nombre</string>
     <string name="hintAddress">Dirección</string>

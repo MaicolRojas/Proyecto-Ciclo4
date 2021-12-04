@@ -17,4 +17,6 @@
     <dimen name="ibHeight">100dp</dimen>
     <dimen name="textTitle">30sp</dimen>
     <dimen name="textSizeAdmin">25sp</dimen>
+    <dimen name="heigthImageProduct">100dp</dimen>
+    <dimen name="sizeNameProduct">20dp</dimen>
 </resources>

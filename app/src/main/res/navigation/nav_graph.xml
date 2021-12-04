@@ -18,12 +18,12 @@
         android:id="@+id/navCategoriaFragment"
         android:name="com.example.systeminventory.view.ui.fragments.OrderDetailCategoria"
         android:label="fragment_order_detail_categoria"
-        tools:layout="@layout/fragment_order_detail_categoria" >
+        tools:layout="@layout/oder_detail_categorias" >
         <action
             android:id="@+id/action_homeFragment_to_orderFragment"
             app:destination="@id/navOrderFragment" />
     </fragment>
-    <fragment
+    <!--<fragment
         android:id="@+id/navLoginFragment"
         android:name="com.example.systeminventory.view.ui.fragments.Login"
         android:label="fragment_Login"
@@ -31,7 +31,7 @@
         <action
             android:id="@+id/action_homeFragment_to_orderFragment"
             app:destination="@id/navOrderFragment" />
-    </fragment>
+    </fragment>-->
     <fragment
         android:id="@+id/navOrderFragment"
         android:name="com.example.systeminventory.view.ui.fragments.OrderFragment"

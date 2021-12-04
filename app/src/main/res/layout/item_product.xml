@@ -9,38 +9,36 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="233dp"
-        android:orientation="vertical"
-        android:background="#E5EFF2">
+        android:layout_height="542dp"
+        android:orientation="vertical">
 
         <ImageView
+            android:id="@+id/ivItemProduct"
             android:layout_width="match_parent"
-            android:layout_height="@dimen/heightImageProduct"
+            android:layout_height="410dp"
             android:layout_margin="@dimen/defaultLayoutMargin"
             android:src="@drawable/productos" />
 
         <TextView
+            android:id="@+id/tvNameProduct"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center_horizontal"
             android:text="Producto"
             android:textColor="@color/primaryTextColor"
-            android:textSize="@dimen/siseNameProduct"
+            android:textSize="@dimen/sizeNameProduct"
             android:textStyle="bold" />
 
         <TextView
+            android:id="@+id/tvPriceProduct"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center_horizontal"
-            android:text="$ 1.000.000"
+            android:text="$999.999"
             android:textColor="@color/primaryTextColor"
             android:textSize="@dimen/sizePriceProduct" />
 
-
     </LinearLayout>
-
-
-
 
 
 

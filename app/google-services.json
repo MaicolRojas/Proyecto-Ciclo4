@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802960493300",
+    "project_id": "systeminventory-d277e",
+    "storage_bucket": "systeminventory-d277e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802960493300:android:87ec7eeed37f21bd71eca1",
+        "android_client_info": {
+          "package_name": "com.example.systeminventory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802960493300-32uui9l68o13eeru76ud8virmm25cud5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiqZm5vrj3--ghEHS4m6jbIssmi9Llngw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802960493300-32uui9l68o13eeru76ud8virmm25cud5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
