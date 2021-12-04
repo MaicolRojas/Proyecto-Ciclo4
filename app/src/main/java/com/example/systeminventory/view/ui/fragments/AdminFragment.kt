@@ -13,10 +13,7 @@ import android.widget.Toast
 import androidx.navigation.fragment.findNavController
 import com.example.systeminventory.R
 import com.example.systeminventory.databinding.FragmentAdminBinding
-<<<<<<< Updated upstream
-=======
-import java.io.PrintStream
->>>>>>> Stashed changes
+
 
 // TODO: Rename parameter arguments, choose names that match
 // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
@@ -66,10 +63,7 @@ class AdminFragment : Fragment() {
         }
 
         //Paso 14. Configurar la actualizacion de valores
-<<<<<<< Updated upstream
 
-=======
->>>>>>> Stashed changes
         val db : SQLiteDatabase = informacionDBHelper.readableDatabase
         val cursor = db.rawQuery("SELECT * FROM " + Tables.information.TABLE_NAME, null )
         if (cursor == null){

@@ -4,11 +4,7 @@ import android.app.Person
 
 class Tables {
 
-<<<<<<< Updated upstream
-    abstract class information{
-=======
-     class information{
->>>>>>> Stashed changes
+    class information{
         companion object {
             val _id = "_id"
             val TABLE_NAME= "Info"
