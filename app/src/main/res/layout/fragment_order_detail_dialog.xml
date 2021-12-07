@@ -60,6 +60,22 @@
                             android:textSize="@dimen/sizePriceProduct"
                             android:textColor="@color/primaryTextColor"/>
                         <TextView
+                            android:id="@+id/stock"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Stock"
+                            android:gravity="center_horizontal"
+                            android:textSize="@dimen/sizePriceProduct"
+                            android:textColor="@color/primaryTextColor"/>
+                        <TextView
+                            android:id="@+id/categoria"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Categoria:"
+                            android:gravity="center_horizontal"
+                            android:textSize="@dimen/sizePriceProduct"
+                            android:textColor="@color/primaryTextColor"/>
+                        <TextView
                             android:id="@+id/tvDescriptionProduct"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"

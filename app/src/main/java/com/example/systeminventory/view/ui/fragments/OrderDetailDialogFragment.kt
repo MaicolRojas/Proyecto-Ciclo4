@@ -38,6 +38,8 @@ class OrderDetailDialogFragment : DialogFragment() {
 
         binding.tvNameProduct.text = products.name
         binding.tvDescriptionProduct.text= products.detail
+        binding.stock.text= products.stock
+        binding.categoria.text= products.categoria
         binding.tvPriceProduct.text = products.price
         Picasso.get().load(products.url).into(binding.ivProduct)
 
